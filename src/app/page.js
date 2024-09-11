@@ -19,9 +19,6 @@ export default function Home() {
 			<Grid
 				container
 				spacing={2}>
-				<Grid item xs={12}>
-					<p>Deployed using Amplify</p>
-				</Grid>
 				<Grid
 					item
 					xs={6}>
